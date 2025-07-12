@@ -1,0 +1,14 @@
+<!DOCTYPE html> 
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <TITLE>RRII</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>RRII</h1>
+    <div id="malla"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html> 
